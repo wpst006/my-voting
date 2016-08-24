@@ -1,0 +1,9 @@
+/**
+ * Created by Wai Phyo on 11/07/2016.
+ */
+export const TOGGLE_VOTE_UP='TOGGLE_VOTE_UP';
+export const TOGGLE_VOTE_DOWN='TOGGLE_VOTE_DOWN';
+export const UPDATE_VOTING_STATUS='UPDATE_VOTING_STATUS';
+
+export const REQUEST_DATA='REQUEST_DATA';
+export const RECEIVE_DATA='RECEIVE_DATA';
